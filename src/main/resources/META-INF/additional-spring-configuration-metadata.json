@@ -1,0 +1,54 @@
+{
+  "properties": [
+    {
+      "name": "t1.kafka.topic.metrics",
+      "type": "java.lang.String",
+      "description": "Description for t1.kafka.topic.metrics."
+    },
+    {
+      "name": "t1.kafka.bootstrap.server",
+      "type": "java.lang.String",
+      "description": "Description for t1.kafka.bootstrap.server."
+    },
+    {
+      "name": "metrics.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for metrics.datasource.url."
+    },
+    {
+      "name": "metrics.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for metrics.datasource.username."
+    },
+    {
+      "name": "metrics.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for metrics.datasource.password."
+    },
+    {
+      "name": "metrics.jpa.hibernate.ddl-auto",
+      "type": "java.lang.String",
+      "description": "Description for metrics.jpa.hibernate.ddl-auto."
+    },
+    {
+      "name": "metrics.jpa.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for metrics.jpa.show-sql."
+    },
+    {
+      "name": "metrics.jpa.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for metrics.jpa.properties.hibernate.dialect."
+    },
+    {
+      "name": "metrics.jpa.properties.hibernate.format_sql",
+      "type": "java.lang.String",
+      "description": "Description for metrics.jpa.properties.hibernate.format_sql."
+    },
+    {
+      "name": "metrics.kafka.enabled",
+      "type": "java.lang.String",
+      "description": "Description for metrics.kafka.enabled."
+    }
+  ]
+}
