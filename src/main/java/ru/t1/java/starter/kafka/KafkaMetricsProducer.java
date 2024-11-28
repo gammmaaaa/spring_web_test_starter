@@ -41,6 +41,5 @@ public class KafkaMetricsProducer {
                 new ProducerRecord(topic, null, UUID.randomUUID().toString(), o,
                         Arrays.stream(headers).map(header -> new RecordHeader(header, header.getBytes())).toList());
         template.send(producerRecord);
-
     }
 }
