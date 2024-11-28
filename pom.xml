@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ru.t1.java</groupId>
 	<artifactId>starter</artifactId>
-	<version>0.0.33</version>
+	<version>0.0.37</version>
 	<name>starter</name>
 	<description>starter</description>
 	<url/>
