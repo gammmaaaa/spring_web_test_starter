@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "t1.kafka.topic.metrics",
+      "type": "java.lang.String",
+      "description": "Description for t1.kafka.topic.metrics."
+    },
+    {
+      "name": "t1.kafka.bootstrap.server",
+      "type": "java.lang.String",
+      "description": "Description for t1.kafka.bootstrap.server."
+    }
+  ]
+}
